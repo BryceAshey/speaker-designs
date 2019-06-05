@@ -1,0 +1,5 @@
+
+Floor height 		13mm
+inner height 		158mm
+inner screw height	154mm
+outer height 		164mm
