@@ -6,8 +6,6 @@ Image 1                                          |  Image 2                     
 :-----------------------------------------------:|:-------------------------------------------------:|:-------------------------:
 ![Bass Tube 1](https://i.imgur.com/xGBOCdD.jpg)  |  ![Bass Tube 2](https://i.imgur.com/4hrOwH5.jpg)  |  ![Bass Tube 3](https://i.imgur.com/xt74Ufj.jpg)
 
-|![Bass Tube 1](https://i.imgur.com/xGBOCdD.jpg)|![Bass Tube 2](https://i.imgur.com/4hrOwH5.jpg)|![Bass Tube 3](https://i.imgur.com/xt74Ufj.jpg)
-
 ## Files
 - BassTube.stl: The bass tube itself
 - Grill.stl: The Grill for the front of the tube. Entirely optional depending on preference and need. If the tube is somewhere the vacuum cleaner can whack it I highly recommend the grill.
