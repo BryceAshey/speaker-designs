@@ -26,41 +26,41 @@ This repository contains STL files for 3d-printing a 6.5" bass tube tuned to 35H
 I printed the tube on an Ultimaker 2+ Extended. Given the large diameter very little room is left on the print bed and warping on the tube was a major problem. Because of that I spent a lot of time tweaking the print settings. The STLs do not contain these customizations since each printer is different. I've listed them below:
 
 ### Bass Tube (PLA)
-.4 mm Nozzle
-Fine 0.1mm
-20% infill
-Quality: Initial Layer Height: .27mm
-Shell: Bottom Pattern Initial Layer: ZigZag
-Speed: Initial Layer Spedd: 15mm/s
-Cooling: Fan Speed: 60%
-Cooling: Initial Fan Speed: 35%
-Cooling: Initial Fan Speed: 0
-Build Plate Adhesion: Build Plate Adhesion Type: Brim
+- .4 mm Nozzle
+- Fine 0.1mm
+- 20% infill
+- Quality: Initial Layer Height: .27mm
+- Shell: Bottom Pattern Initial Layer: ZigZag
+- Speed: Initial Layer Spedd: 15mm/s
+- Cooling: Fan Speed: 60%
+- Cooling: Initial Fan Speed: 35%
+- Cooling: Initial Fan Speed: 0
+- Build Plate Adhesion: Build Plate Adhesion Type: Brim
 
 ### Grill and Mounts (TPU 95A)
-.4 mm Nozzle
-Fine 0.1mm
-10% infill
-Quality: Initial Layer Height: .27mm
-Shell: Bottom Pattern Initial Layer: Line
-Speed: Initial Layer Spedd: 15mm/s
-Cooling: Fan Speed: 60%
-Cooling: Initial Fan Speed: 35%
-Cooling: Initial Fan Speed: 0
-Build Plate Adhesion: Build Plate Adhesion Type: Brim
+- .4 mm Nozzle
+- Fine 0.1mm
+- 10% infill
+- Quality: Initial Layer Height: .27mm
+- Shell: Bottom Pattern Initial Layer: Line
+- Speed: Initial Layer Spedd: 15mm/s
+- Cooling: Fan Speed: 60%
+- Cooling: Initial Fan Speed: 35%
+- Cooling: Initial Fan Speed: 0
+- Build Plate Adhesion: Build Plate Adhesion Type: Brim
 
 ## Assembly Instructions:
 Everything should be pretty self explanatory (log an issue if you have a question) with the exception of the flanges. Once your print is complete you'll note some 4mm x 4mm holes on the woofer end of the tube. That's where the flanges go for the speaker mounting screws. Heat up a soldering iron to around 2/3's heat. When hot slide a flange on the end of the iron with knurls pointing away from the iron. Be careful the brass heats super quickly. You should be able to just rest the knurled end on top of the 4mm x 4mm hole and the weight of the iron should push it into the hole. Push it down until the flanged bit is flush with the surface. Be careful not to push so far that you start bowing the plastic. If done correctly you end up with 8 perfect mounting holes for the #4-40 machine screws.
 
 ## AutoDesk Extrude Heights:
-- BassTube:
- - Floor height 		13mm
- - inner height 		158mm
- - inner screw height	154mm
- - outer height 		164mm
-- Grill:
- - Vents			2mm
- - Inner edge		20mm
- - Outer edge		40mm
-- Mount:
- - Depth			20mm
+- **BassTube:**
+- Floor height 		13mm
+- inner height 		158mm
+- inner screw height	154mm
+- outer height 		164mm
+- **Grill:**
+- Vents			2mm
+- Inner edge		20mm
+- Outer edge		40mm
+- **Mount:**
+- Depth			20mm
