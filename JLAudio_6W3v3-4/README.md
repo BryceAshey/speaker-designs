@@ -2,6 +2,10 @@
 
 This repository contains STL files for 3d-printing a 6.5" bass tube tuned to 35Hz. The tube is a sealed design providing quick response time with enough low end to keep up with home theater or video game demands. Gun fire provides plenty of punch and explosions roll off the tube shaking your seat.
 
+Image 1                                          |  Image 2                                          |   Image 3
+:-----------------------------------------------:|:-------------------------------------------------:|:-------------------------:
+![Bass Tube 1](https://i.imgur.com/xGBOCdD.jpg)  |  ![Bass Tube 2](https://i.imgur.com/4hrOwH5.jpg)  |  ![Bass Tube 3](https://i.imgur.com/xt74Ufj.jpg)
+
 |![Bass Tube 1](https://i.imgur.com/xGBOCdD.jpg)|![Bass Tube 2](https://i.imgur.com/4hrOwH5.jpg)|![Bass Tube 3](https://i.imgur.com/xt74Ufj.jpg)
 
 ## Files
