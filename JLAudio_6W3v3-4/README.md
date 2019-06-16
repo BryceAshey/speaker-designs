@@ -15,7 +15,7 @@ Image 1                                          |  Image 2                     
 - Readme.md: This readme file.
 
 ## Materials:
-- ~600g PLA Filament (bass tube)
+- ~700g PLA Filament (bass tube)
 - ~200g TPU 95A Filament (mounts and grill)
 - 1 [JL Audio 6w3v3-4](https://www.crutchfield.com/p_1366W3V34/JL-Audio-6W3v3-4.html?awcp=1t1&awcr=189628602181&awdv=c&awkw=6w3v34&awmt=p&awnw=g&awug=9031329&gclid=EAIaIQobChMIhf7kgbDu4gIVlcJkCh1tGwu2EAAYASAAEgLclPD_BwE)
 - 1 pair [Banana Plug Binding Post](https://www.amazon.com/gp/product/B076JBS2K2/ref=ppx_yo_dt_b_asin_title_o01_s00?ie=UTF8&psc=1)
