@@ -4,7 +4,7 @@ This repository contains STL files for 3d-printing a 6.5" bass tube tuned to 35H
 
 Image 1                                          |  Image 2                                          |   Image 3
 :-----------------------------------------------:|:-------------------------------------------------:|:-------------------------:
-![Bass Tube 1](https://i.imgur.com/xGBOCdD.jpg)  |  ![Bass Tube 2](https://i.imgur.com/4hrOwH5.jpg)  |  ![Bass Tube 3](https://i.imgur.com/xt74Ufj.jpg)
+![Bass Tube 1](https://i.imgur.com/E979eoe.jpg)  |  ![Bass Tube 2](https://i.imgur.com/YVXBnMB.jpg)  |  ![Bass Tube 3](https://i.imgur.com/llpf0CC.jpg)
 
 ## Files
 - BassTube.stl: The bass tube itself
